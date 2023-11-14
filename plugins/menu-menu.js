@@ -30,8 +30,14 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *👸 ROMINA : +51955494296*
  *👸 SOFIA : +5491125091446*
  *👸 DIANA : +5219993404349*
- *💜 Yape Para Comprar : https://wa.link/vb8npk*
 
+ *METODOS DE PAGOS*
+ 
+ *💸 Yape Y Diamantes : https://wa.link/vb8npk*
+ *💸 Yape , Paypal , Mercado Pago Y Diamantes : https://wa.link/60znh6*
+ *💸 Mercado Pago Y Diamantes : https://wa.link/eomm34*
+
+ 
  *📆 Fecha:* ${date}
  *⏳ Uptime:* ${uptime}
  *🧑 Usuarios :* ${rtotalreg}
