@@ -10,7 +10,7 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['51906528530', '☃️ Samurai - Bot ☃️', true],
   ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
@@ -33,16 +33,16 @@ global.owner = [
   ['595992611272']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['51906529530'];
+global.prems = ['51906528530'];
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
-global.wait = '*[ ⏳ ] Cargando...*';
+global.author = '𝑩𝒐𝒕𝒔𝒊𝒕𝒐 𝑺𝒂𝒎𝒖𝒓𝒂𝒊';
+global.wm = '𝑩𝒐𝒕𝒔𝒊𝒕𝒐 𝑺𝒂𝒎𝒖𝒓𝒂𝒊';
+global.titulowm = '𝑩𝒐𝒕𝒔𝒊𝒕𝒐 𝑺𝒂𝒎𝒖𝒓𝒂𝒊';
+global.titulowm2 = `𝑩𝒐𝒕𝒔𝒊𝒕𝒐 𝑺𝒂𝒎𝒖𝒓𝒂𝒊`
+global.igfg = '𝑩𝒐𝒕𝒔𝒊𝒕𝒐 𝑺𝒂𝒎𝒖𝒓𝒂𝒊';
+global.wait = '*[ 🎄 ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -62,15 +62,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ The Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.waitt = '*[ ⏳ ] Cargando...*';
-global.waittt = '*[ ⏳ ] Cargando...*';
-global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '5219993404349';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝑩𝒐𝒕𝒔𝒊𝒕𝒐 𝑺𝒂𝒎𝒖𝒓𝒂𝒊`;
+global.gt = '𝑩𝒐𝒕𝒔𝒊𝒕𝒐 𝑺𝒂𝒎𝒖𝒓𝒂𝒊';
+global.mysticbot = '𝑩𝒐𝒕𝒔𝒊𝒕𝒐 𝑺𝒂𝒎𝒖𝒓𝒂𝒊';
+global.md = 'https://github.com/Bots/RobarNo-MD';
+global.mysticbot = 'https://github.com/Bots/RobarNo-MD';
+global.waitt = '*[ 🎄 ] Cargando...*';
+global.waittt = '*[ 🎄 ] Cargando...*';
+global.waitttt = '*[ 🎄 ] Cargando...*';
+global.nomorown = '51906528530';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
