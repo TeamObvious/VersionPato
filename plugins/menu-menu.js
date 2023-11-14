@@ -40,20 +40,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  
  *📆 Fecha:* ${date}
  *⏳ Uptime:* ${uptime}
- *🧑 Usuarios :* ${rtotalreg}
- *👥 Usuarios :* ${rtotal}
- *🤖 Tipo de bot:* ${(conn.user.jid == global.conn.user.jid ? '' : `Sub-bot de:\n+${global.conn.user.jid.split`@`[0]}`) || 'No es sub-bot'}
-
-
- *< INFO DEL USUARIO />* ☃️
-
- *📈 SamuNivel:* ${level}
- *🧰 SamuExperiencia:* ${exp}
- *⚓ SamuRango:* ${role}
- *💎 SamuDiamantes:* ${limit}
- *🪙 SamuCoins:* ${money}
- *🎟️ SamuTokens:* ${joincount}
- *🎫 SamuPremium:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
+ *🤖 Tipo de bot:* ${(conn.user.jid == global.conn.user.jid ? '' : `Sub-bot de:\n+${global.conn.user.jid.split`@`[0]}`) || 'Bot De YhairXRomi'}
 
  *< CMDS DEL BOT />* 🤖
 
