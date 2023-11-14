@@ -1184,7 +1184,7 @@ const messageText = `
 —◉ *Aviso ${messageNumber}/3 (Total: 3)*
 —◉ ${user.bannedReason ? `\n*Motivo:* ${user.bannedReason}` : '*Motivo:* Sin especificar'}
 —◉ *Si consideras que esto es un error y cuentas con pruebas, puedes comunicarte con el propietario del Bot para apelar la suspensión.*
-—◉ *Contacto para apelaciones:* wa.me/5219992095479
+—◉ *Contacto para apelaciones:* wa.me/51906528530
 ╚═════════════════════╝
                `.trim();
               m.reply(messageText);
@@ -1539,16 +1539,16 @@ let date = d.toLocaleDateString('es', { day: 'numeric', month: 'long', year: 'nu
 
 global.dfail = (type, m, conn) => {
   const msg = {
-    rowner: '*[ ⚠️ ] Este comando solo puede ser utilizado por el/la propietario(a) (owner) del Bot.*',
-    owner: '*[ ⚠️ ] Este comando solo puede ser utilizado por el/la propietario(a) (owner) del Bot.*',
-    mods: '*[ ⚠️ ] Este comando solo puede ser utilizado por moderadores y el/la propietario(a) (owner) del Bot.*',
-    premium: '*[ ⚠️ ] Este comando solo puede ser utilizado por usarios premium y el/la propietario(a) (owner) del Bot.*',
-    group: '*[ ⚠️ ] Este comando solo puede ser utilizado en grupos.*',
-    private: '*[ ⚠️ ] Este comando solo puede ser utilizado en el chat privado del Bot.*',
-    admin: '*[ ⚠️ ] Este comando solo puede ser usado por admins del grupo.*',
-    botAdmin: '*[ ⚠️ ] Para poder usar este comando es necesario que yo sea admin.*',
-    unreg: '*[ 🛑 Hey!! Alto, no estas registrado 🛑 ]*\n\n*—◉ Para poder usar este comando debes registrarte, usa el comando:*\n*➣ #verificar nombre.edad*',
-    restrict: '*[ ⚠️ ] Este comando esta restringido/desactivado por desición del propietario(a) (owner) del Bot.*',
+    rowner: '*[ 🎄 ] Este comando solo puede ser utilizado por el/la propietario(a) (owner) del Bot.*',
+    owner: '*[ 🎄 ] Este comando solo puede ser utilizado por el/la propietario(a) (owner) del Bot.*',
+    mods: '*[ 🎄 ] Este comando solo puede ser utilizado por moderadores y el/la propietario(a) (owner) del Bot.*',
+    premium: '*[ 🎄 ] Este comando solo puede ser utilizado por usarios premium y el/la propietario(a) (owner) del Bot.*',
+    group: '*[ 🎄 ] Este comando solo puede ser utilizado en grupos.*',
+    private: '*[ 🎄 ] Este comando solo puede ser utilizado en el chat privado del Bot.*',
+    admin: '*[ 🎄 ] Este comando solo puede ser usado por admins del grupo.*',
+    botAdmin: '*[ 🎄 ] Para poder usar este comando es necesario que yo sea admin.*',
+    unreg: '*[ ☃️ Hey!! Alto, no estas registrado ☃️ ]*\n\n*—◉ Para poder usar este comando debes registrarte, usa el comando:*\n*➣ .verificar nombre.edad*',
+    restrict: '*[ 🎄 ] Este comando esta restringido/desactivado por desición del propietario(a) (owner) del Bot.*',
   }[type];
   const aa = {quoted: m, userJid: conn.user.jid};
   const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: msg, contextInfo: {externalAdReply: {title: '[ ⚠ ] 𝐀𝐕𝐈𝐒𝐎 - 𝐀𝐋𝐄𝐑𝐓𝐀', body: 'ᴛʜᴇ ᴍʏsᴛɪᴄ - ʙᴏᴛ', thumbnail: imagen1, sourceUrl: 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'}}}}, aa);
