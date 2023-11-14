@@ -10,6 +10,7 @@ const handler = async (m, {conn, participants, groupMetadata, args}) => {
 ${oi}
 
 *❄️: ̗̀➛ ♡YhairXRomi♡*
+
 ${listAdmin}
 
 *CREADO POR : SAMURAI BOT!*`.trim();
