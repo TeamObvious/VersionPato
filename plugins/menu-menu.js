@@ -55,12 +55,6 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *🎟️ SamuTokens:* ${joincount}
  *🎫 SamuPremium:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
 
-
- _*< LISTA DE COMANDOS />*_ 🎄
-
- - Presione en _Leer más_ para ver la lista de comandos${readMore}
- 
-
  *< CMDS DEL BOT />* 🤖
 
   ☃️ _${usedPrefix}terminosycondiciones_
