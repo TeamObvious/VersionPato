@@ -9,7 +9,7 @@ const handler = async (m, {conn, participants, groupMetadata, args}) => {
 
 ${oi}
 
-*𓍢ִ໋❄️๛ Diana Dzn*
+*𓍢ִ໋❄️๛ @_dianita.dzn*
 
 ${listAdmin}
 
