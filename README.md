@@ -13,7 +13,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/TeamObvious/Samurai-MD.git && cd Samurai-MD
+git clone https://github.com/TeamObvious/Violet-MD.git && cd Violet-MD
 ```
 
 ```bash
@@ -24,9 +24,6 @@ yarn install
 npm install
 ```
 
-```bash
-npm update
-```
 
 ```bash
 npm start
