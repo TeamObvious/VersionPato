@@ -1,7 +1,7 @@
 {
-  "name": "VioletEvergarden",
+  "name": "PatoBot",
   "version": "1.0.0",
-  "description": "Violet El Mejor Bot",
+  "description": "Pato El Mejor Bot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/TeamObvious/Violet-MD",
+  "homepage": "https://github.com/TeamObvious/VersionPato",
   "author": {
     "name": "TeamObvious"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamObvious/Violet-MD.git"
+    "url": "git+https://github.com/TeamObvious/VersionPato.git"
   },
   "bugs": {
-    "url": "https://github.com/TeamObvious/Violet-MD/issues"
+    "url": "https://github.com/TeamObvious/VersionPato/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
