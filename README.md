@@ -13,7 +13,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/TeamObvious/Violet-MD.git && cd Violet-MD
+git clone https://github.com/TeamObvious/VersionPatogit && cd VersionPato
 ```
 
 ```bash
@@ -43,7 +43,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
 > cd Mystic-termux
-> rm -rf MysticSession
+> rm -rf My sticSession
 > npm start
 ```
  
