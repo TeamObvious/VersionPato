@@ -26,7 +26,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  *Ey , Hola PatoLover ${taguser} Te Presento Este Bot 🦆*
 
  ◤━━━━━━━━━━━◥
- ►🦆 *Owner :* _Luz_
+ ►🦆 *Owner :* _Pato_
  ►🦆 *Numero:* _+51936501154_
  ►🦆 *Comprar Bot :* _+51906528530_
  ►🦆 *Tipo De Bot:* _Pato Bot Premiun_
