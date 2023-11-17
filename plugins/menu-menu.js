@@ -27,7 +27,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
  ◤━━━━━━━━━━━◥
  ►🦆 *Owner :* _Luz_
- ►🦆 *Numero:* _+59165018422_
+ ►🦆 *Numero:* _+51936501154_
  ►🦆 *Comprar Bot :* _+51906528530_
  ►🦆 *Tipo De Bot:* _Pato Bot Premiun_
  ◣━━━━━━━━━━━◢
