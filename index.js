@@ -17,7 +17,7 @@ say('Samurai - Bot\nWhatsApp Bot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Hola Gracias Por Comprar Mi Bot , TE AMO ', {
+say(`Hola Gracias Por Comprar Mi Bot , TE AMO', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
