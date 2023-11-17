@@ -512,7 +512,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `♡ Hola Soy 𝗩𝗶𝗼𝗹𝗲𝘁 𝗘𝘃𝗲𝗿𝗴𝗮𝗿𝗱𝗲𝗻 / [ 🩵 ] Uptime : ${uptime} ♡`;
+  const bio = `♡ Hola Soy Pato Bot / [🦆 ] Uptime : ${uptime} ♡`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
