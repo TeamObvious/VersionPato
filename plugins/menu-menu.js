@@ -32,16 +32,14 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🦆 *Tipo De Bot:* _Pato Bot Premiun_
  ◣━━━━━━━━━━━◢
 
-
- *« COMANDOS BOT »*
-
+ *« Vs / Reglas »*
+ 
  ◤━━━━━━━━━━━◥
- ►🦆 _${usedPrefix}grupos_
- ►🦆 _${usedPrefix}estado_
- ►🦆 _${usedPrefix}infobot_
- ►🦆 _${usedPrefix}donar_
- ►🦆 _${usedPrefix}owner_
- ►🦆 _${usedPrefix}fixmsgespera_
+  ►🦆 _${usedPrefix}Vs4_
+  ►🦆 _${usedPrefix}Vs8_
+  ►🦆 _${usedPrefix}Infinito_
+  ►🦆 _${usedPrefix}Vivido_
+  ►🦆 _${usedPrefix}Mapa_
  ◣━━━━━━━━━━━◢
 
  *« MENUS ADICIONALES »*
